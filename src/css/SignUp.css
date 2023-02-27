@@ -1,0 +1,9 @@
+.signup-form {
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #ccc;
+    padding: 20px;
+    width: 20%;
+    margin-top: 15vh;
+    margin-left: 80vh;
+}

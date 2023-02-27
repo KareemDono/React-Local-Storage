@@ -1,0 +1,15 @@
+.carousel-image {
+    max-width: 200vh;
+    max-height: 80vh;
+}
+
+.content-container {
+    position: absolute;
+    top: 40px; /* 70px is the height of the navbar */
+    left: 0;
+    right: 0;
+    bottom: 50px; /* 50px is the height of the footer */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
